@@ -1,4 +1,14 @@
-# STM32-UART-VSCODE-WOKWI-SERIALPLOTTER-SIMULATION
+# STM32 UART Communication & Wokwi Simulation 🚀
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wokwi-FFA500?style=for-the-badge&logo=wokwi&logoColor=white" />
+</p>
+
+
+---
 A project demonstrating UART communication between STM32 and PC, simulated via Wokwi with Serial Plotter display.
 
 Step 1: Peripheral Configuration with STM32CubeMX
